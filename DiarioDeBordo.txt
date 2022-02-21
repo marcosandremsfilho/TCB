@@ -1,0 +1,2 @@
+Primeiro dia 21/02/22:
+Tentando aprender como funciona para se fazer a montagem de uma biblioteca em C.
