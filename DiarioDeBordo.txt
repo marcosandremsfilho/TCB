@@ -1,2 +1,2 @@
 Primeiro dia 21/02/22:
-Tentando aprender como funciona para se fazer a montagem de uma biblioteca em C.
+Escrevendo no relatório como escrever uma biblioteca e me aprofundando em como o código funciona.
