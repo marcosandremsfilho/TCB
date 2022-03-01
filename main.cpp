@@ -4,19 +4,21 @@
 
 stateMachine = 0;
 
-void setup() {
+void setup()
+{
     pinMode(pin, INPUT);
     Serial.begin(9600);
-
 }
 
-void loop(){
-    switch(maquina){
-        case 0: 
-            testingInitialSignal();
-        case 1:
-
+void loop()
+{
+    switch (maquina)
+    {
+    case 0:
+        testingInitialSignal();
+    case 1:
+        decodingSignal();
+    case 2:
+        showingTheSignalCode();
     }
-   
-
 }
