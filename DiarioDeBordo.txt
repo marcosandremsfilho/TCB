@@ -1,2 +1,8 @@
 Primeiro dia 21/02/22:
 Escrevendo no relatório como escrever uma biblioteca e me aprofundando em como o código funciona.
+Segundo dia 22/02/22:
+Estudando e relatando como funciona o controle IR e receptor IR.
+28/02/22
+Tentando entender como funciona decodificação.
+01/02/22
+começo a escrever o codigo
