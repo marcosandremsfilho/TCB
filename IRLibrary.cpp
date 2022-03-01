@@ -58,6 +58,8 @@ void decodingSignal()
         }
     } while (bitContagem <= 32)
     stateMachine = 2;
+
+    return;
 }
 
 void showingTheSignalCode(){
@@ -65,4 +67,7 @@ void showingTheSignalCode(){
     Serial.prinln(decode, HEX);
     Serial.print("Controller in BIN: ");
     Serial.prinln(decode);
+
+    stateMachine = 0;
+    return;    
 }
